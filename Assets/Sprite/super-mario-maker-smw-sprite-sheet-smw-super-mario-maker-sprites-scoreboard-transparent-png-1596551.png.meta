@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: 9f9b0c55712f0af45a50d91272a63d79
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3315075460199181409
+    second: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_0
+  - first:
+      213: -544880980756731597
+    second: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_1
+  - first:
+      213: -8898040704402504358
+    second: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_2
+  - first:
+      213: -5126655673064630880
+    second: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_3
+  - first:
+      213: -8531886375358446146
+    second: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_4
+  - first:
+      213: 4316584623505459717
+    second: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_5
+  - first:
+      213: 2398116761728300648
+    second: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_6
+  - first:
+      213: -3840771372127302013
+    second: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_7
+  - first:
+      213: -3771783181380229091
+    second: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_8
+  - first:
+      213: 6217671999215683180
+    second: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_9
+  - first:
+      213: 8982889047490477213
+    second: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_10
+  - first:
+      213: 1960184070341300926
+    second: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_11
+  - first:
+      213: 421649418872887860
+    second: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_12
+  - first:
+      213: -4879260188996680497
+    second: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_13
+  - first:
+      213: 2048603132896891185
+    second: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_14
+  - first:
+      213: -1126906218851999818
+    second: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_15
+  - first:
+      213: -1785400517142204355
+    second: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_16
+  - first:
+      213: 9037614741098362009
+    second: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_17
+  - first:
+      213: 2832306067072470358
+    second: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_18
+  - first:
+      213: -4676026159017207332
+    second: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_0
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 453
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c69c82193810e20800000000000000
+      internalID: 3315075460199181409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_1
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 453
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339e02982a13078f0800000000000000
+      internalID: -544880980756731597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 453
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a554f198f1fc38480800000000000000
+      internalID: -8898040704402504358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_3
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 453
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5dd39d3d57ad8b0800000000000000
+      internalID: -5126655673064630880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 453
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5c3c4ab86a89980800000000000000
+      internalID: -8531886375358446146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_5
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 452
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ac4f648d697eb30800000000000000
+      internalID: 4316584623505459717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 453
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866b9b03d72d74120800000000000000
+      internalID: 2398116761728300648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 518
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38eccdc49c6d2bac0800000000000000
+      internalID: -3840771372127302013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_8
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 533
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18e9082e2fe7abc0800000000000000
+      internalID: -3771783181380229091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_9
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 518
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66c42b9dbb994650800000000000000
+      internalID: 6217671999215683180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_10
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 518
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cba6ccef1a9ac70800000000000000
+      internalID: 8982889047490477213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_11
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 518
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb29217c609f33b10800000000000000
+      internalID: 1960184070341300926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_12
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 518
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a1ba799eff9d500800000000000000
+      internalID: 421649418872887860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_13
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 338
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4c524a5b2694cb0800000000000000
+      internalID: -4879260188996680497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 338
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131521602b91e6c10800000000000000
+      internalID: 2048603132896891185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_15
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 518
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfd52ab3cc6c50f0800000000000000
+      internalID: -1126906218851999818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_16
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 190
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30b0f960bbf837e0800000000000000
+      internalID: -1785400517142204355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 46
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994700449be0c6d70800000000000000
+      internalID: 9037614741098362009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_18
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 161
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dc90f9c5f5e4720800000000000000
+      internalID: 2832306067072470358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-maker-smw-sprite-sheet-smw-super-mario-maker-sprites-scoreboard-transparent-png-1596551_19
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 175
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd95857abfa6b1fb0800000000000000
+      internalID: -4676026159017207332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
